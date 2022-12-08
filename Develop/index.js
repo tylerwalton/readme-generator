@@ -9,7 +9,6 @@ const questions = [
     name: "title",
     message: "whats the title of your application",
   },
-
   {
     type: "input",
     name: "description",
@@ -20,15 +19,46 @@ const questions = [
     name: "installation",
     message: "Please include any installation instructions",
   },
+  {
+    type: "input",
+    name: "usage",
+    message: "What are some use cases for your application?",
+  },
+  {
+    type: "list",
+    name: "license",
+    message: "select what kind of license you would like to add",
+    choices: ["MIT", "Apache", "Mozilla", "Gnu", "No License"],
+  },
+  {
+    type: "input",
+    name: "credits",
+    message:
+      "List your collaborators, if any, with links to their GitHub profiles.",
+  },
+  {
+    type: "input",
+    name: "contribution",
+    message:
+      "If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so.",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "Please include your email.",
+  },
+  {
+    type: "input",
+    name: "github",
+    message: "Please include your github username.",
+  },
 ];
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then (data => {
-        fs.writeFileSync('testreadme1.md', generateMarkdown(data))  
+        fs.writeFileSync('README.md', generateMarkdown(data))  
     })
 }
 

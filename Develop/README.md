@@ -1,5 +1,5 @@
-# README Generator 
-
+# ty
+No License
   # Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -10,18 +10,19 @@
 7. [Author](#author)
 
 ## Description 
-generator 
+ty 
 ## Installation
-none
+ty
 ## Usage
-create
+ty
 ## License
-none
-license link: 
+No License
+
 ## Credits
-robby
+ty
 ## How To Contribute
-dont
+ty
 ## Author
-"Please feel free to reach me at"<a href=tylerwalton300@gmail.com>tylerwalton300@gmail.com</a>
-"Or check out my work at" http://github.com/github
+"Please feel free to reach me at"<a href=ty>ty</a>
+<br>
+"Or check out my work at" http://github.com/ty
