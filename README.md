@@ -15,7 +15,7 @@ Here is a list of my motivations for this project!
 
 ## <u>**Recording**</u>
 
-[![Watch the video](https://youtu.be/goWIEz3FyPI)
+https://user-images.githubusercontent.com/113783273/207164195-91972693-dc46-4987-b9ad-7d73f5fef035.mp4
 
 ## <u>**Author**</u>
 
