@@ -7,17 +7,17 @@ const questions = [
   {
     type: "input",
     name: "title",
-    message: "whats the title of your application",
+    message: "whats the title of your application?",
   },
   {
     type: "input",
     name: "description",
-    message: "Please describe your application",
+    message: "Please describe your application.",
   },
   {
     type: "input",
     name: "installation",
-    message: "Please include any installation instructions",
+    message: "Please include any installation instructions.",
   },
   {
     type: "input",
@@ -27,7 +27,7 @@ const questions = [
   {
     type: "list",
     name: "license",
-    message: "select what kind of license you would like to add",
+    message: "select what kind of license you would like to add.",
     choices: ["MIT", "Apache", "Mozilla", "Gnu", "No License"],
   },
   {

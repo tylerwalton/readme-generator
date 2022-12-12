@@ -8,9 +8,14 @@ Here is a list of my motivations for this project!
 - utilizing template literals to interpolate variables into strings
 - lastly, I wanted to create a fully functioning readme generator that myself and anyone I know can use to effortlessly create a professional file. 
 
+
 ## <u>**Screenshots**</u>
 
 ![alt text](./assets/Node%20Created%20README.png)
+
+## <u>**Recording**</u>
+
+[![Watch the video](https://youtu.be/goWIEz3FyPI)
 
 ## <u>**Author**</u>
 

@@ -1,5 +1,5 @@
-# READ
-
+# README Generator
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   # Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -10,19 +10,19 @@
 7. [Questions](#questions)
 
 ## Description 
- 
+A node based application that allows you to create a professional README.md file for your projects 
 ## Installation
-run npm i to install all needed modules
+Run NPM i in the terminal to install any needed modules
 ## Usage
-creating a professional readme for your projects
+Creating a professional README.md file with a simple template
 ## License
-No License
-
+Mozilla
+(https://opensource.org/licenses/MPL-2.0)
 ## Credits
-no collaberators
+No collaborators to be added
 ## How To Contribute
-none
+Fork and create a pull request if you wish to contribute!
 ## Questions
-"If you have any questions please feel free to reach me at"<a href=tylerwalton300@gmail.com>tylerwalton300@gmail.com</a>
+"If you have any questions please feel free to reach me at"<a href=Tylerwalton300@gmail.com>Tylerwalton300@gmail.com</a>
 <br>
 "Or check out my work at" http://github.com/github.com/tylerwalton
