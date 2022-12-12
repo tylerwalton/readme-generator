@@ -1,5 +1,5 @@
-# ty
-No License
+# READ
+
   # Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
@@ -7,22 +7,22 @@ No License
 4. [License](#license)
 5. [Credits](#credits)
 6. [How To Contribute](#how-to-contribute)
-7. [Author](#author)
+7. [Questions](#questions)
 
 ## Description 
-ty 
+ 
 ## Installation
-ty
+run npm i to install all needed modules
 ## Usage
-ty
+creating a professional readme for your projects
 ## License
 No License
 
 ## Credits
-ty
+no collaberators
 ## How To Contribute
-ty
-## Author
-"Please feel free to reach me at"<a href=ty>ty</a>
+none
+## Questions
+"If you have any questions please feel free to reach me at"<a href=tylerwalton300@gmail.com>tylerwalton300@gmail.com</a>
 <br>
-"Or check out my work at" http://github.com/ty
+"Or check out my work at" http://github.com/github.com/tylerwalton

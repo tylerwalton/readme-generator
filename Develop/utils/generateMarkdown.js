@@ -43,7 +43,7 @@ ${renderLicenseBadge(data.license)}
 4. [License](#license)
 5. [Credits](#credits)
 6. [How To Contribute](#how-to-contribute)
-7. [Author / Questions](#author)
+7. [Questions](#questions)
 
 ## Description 
 ${data.description} 
@@ -58,7 +58,7 @@ ${renderLicenseLink(data.license)}
 ${data.credits}
 ## How To Contribute
 ${data.contribution}
-## Author / Questions
+## Questions
 "If you have any questions please feel free to reach me at"<a href=${data.email}>${data.email}</a>
 <br>
 "Or check out my work at" http://github.com/${data.github}

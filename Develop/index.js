@@ -56,7 +56,7 @@ const questions = [
 
 
 // TODO: Create a function to initialize app
-// 
+// combined initialize and writefile function for drier code
 function init() {
     inquirer.prompt(questions).then (data => {
         fs.writeFileSync('README.md', generateMarkdown(data))  
